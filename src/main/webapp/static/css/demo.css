@@ -77,7 +77,7 @@ a:hover {
 }
 
 .wrapper {
-    border: 1px dashed #95a5a6;
+    border: 1px dashed grey;
     height: 56px;
     margin-top: 16px;
     border-radius: 4px;
