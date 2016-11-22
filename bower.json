@@ -1,0 +1,13 @@
+{
+  "name": "AngularDemo",
+  "authors": [
+    "ericjohn1 <ejj1848>"
+  ],
+  "description": "test",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+  ]
+}
